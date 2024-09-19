@@ -4,7 +4,7 @@
 <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
  width="763.000000pt" height="186.000000pt" viewBox="0 0 763.000000 186.000000"
  preserveAspectRatio="xMidYMid meet">
-
+<a xlink:href="https://stackoverflow.com/">
 <g transform="translate(0.000000,186.000000) scale(0.100000,-0.100000)"
 fill="#000000" stroke="none">
 <path d="M5070 1708 c-25 -41 -25 -48 -1 -48 16 0 71 58 71 74 0 3 -11 6 -25
@@ -170,4 +170,5 @@ c0 76 -76 121 -147 87z m88 -65 c8 -22 6 -23 -36 -23 -30 0 -45 4 -45 13 0 41
 <path d="M2944 866 c-12 -31 0 -51 31 -51 27 0 30 3 30 30 0 25 -4 30 -28 33
 -17 2 -29 -2 -33 -12z"/>
 </g>
+</a>
 </svg>
